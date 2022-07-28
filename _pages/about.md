@@ -7,6 +7,7 @@ subtitle: <h4> Computer Vision and Robotics Practitioner </h4>
 profile:
   align: right
   image: prof_pic.png
+  image_cicular: true # crops the image to make it circular
   address: >
     <p align="center">
        <i class="fas fa-map-marker-alt"></i> Located in Singapore
